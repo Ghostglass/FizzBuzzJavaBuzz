@@ -1,0 +1,10 @@
+{
+  "editor.parameterHints.cycle": true,
+  "editor.tabCompletion": "on",
+  "workbench.colorCustomizations": 
+  {
+    "list.activeSelectionBackground": "#6200ff36"
+  },
+  "emmet.showSuggestionsAsSnippets": true,
+  "emmet.triggerExpansionOnTab": true
+} 
